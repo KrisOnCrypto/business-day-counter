@@ -1,0 +1,29 @@
+{
+  "name": "business-day-counter",
+  "version": "1.0.0",
+  "description": "Utility methods to get amount of business days in given month",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrisOnCrypto/business-day-counter.git"
+  },
+  "keywords": [
+    "business days",
+    "calendar",
+    "date",
+    "locale"
+  ],
+  "author": "Kris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrisOnCrypto/business-day-counter/issues"
+  },
+  "homepage": "https://github.com/KrisOnCrypto/business-day-counter#readme",
+  "dependencies": {
+    "mocha": "^10.0.0",
+    "chai": "^4.3.6"
+  }
+}
