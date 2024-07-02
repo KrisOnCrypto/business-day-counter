@@ -1,4 +1,4 @@
-# My Node Package
+# Business Day Counter
 
 Utility methods to get amount of business days in given month
 
